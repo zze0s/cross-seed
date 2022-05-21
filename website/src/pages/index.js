@@ -4,7 +4,6 @@ import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 function HomepageHeader() {
 	const { siteConfig } = useDocusaurusContext();
@@ -18,7 +17,7 @@ function HomepageHeader() {
 						className="button button--secondary button--lg"
 						to="/docs/intro"
 					>
-						Docusaurus Tutorial - 5min ⏱️
+						cross-seed Tutorial - 10 minutes ⏱️
 					</Link>
 				</div>
 			</div>
@@ -27,16 +26,33 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-	const { siteConfig } = useDocusaurusContext();
 	return (
 		<Layout
-			title={`Hello from ${siteConfig.title}`}
-			description="Description will go into a meta tag in <head />"
+			title="Home"
+			description="Fully automatic cross-seeding without false positives"
 		>
 			<HomepageHeader />
-			<main>
-				<HomepageFeatures />
-			</main>
+			<div className="flex-container">
+				<main>
+					<section>
+						<h2>About</h2>
+						<code>cross-seed</code> is an app designed to help you
+						download torrents that you can cross seed based on your
+						existing torrents. It is designed to match
+						conservatively to minimize manual intervention.
+					</section>
+					<section>
+						<h2>Features</h2>
+						<ul>
+							<li>RSS scans</li>
+							<li>Search on finished download</li>
+							<li>Announce integration</li>
+							<li>Push notifications</li>
+							<li>Injection into qBittorrent and rTorrent</li>
+						</ul>
+					</section>
+				</main>
+			</div>
 		</Layout>
 	);
 }

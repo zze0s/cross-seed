@@ -99,7 +99,6 @@ const config = {
 						],
 					},
 				],
-				copyright: `Copyright © 2020-${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
 			},
 			prism: {
 				theme: lightCodeTheme,
