@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/Configuration file",
+  "id": "tutorial-basics/Configuration file",
+  "title": "Configuration file",
+  "description": "cross-seed will look for a configuration file at ~/.cross-seed/config.js",
+  "source": "@site/docs/tutorial-basics/Configuration file.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Configuration file",
+  "permalink": "/docs/tutorial-basics/Configuration file",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/Configuration file.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "`cross-seed` API",
+    "permalink": "/docs/tutorial-basics/API"
+  },
+  "next": {
+    "title": "Daemon Mode",
+    "permalink": "/docs/tutorial-basics/Daemon Mode"
+  }
+}

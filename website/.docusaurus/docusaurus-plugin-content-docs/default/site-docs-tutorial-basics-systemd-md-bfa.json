@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/Systemd",
+  "id": "tutorial-basics/Systemd",
+  "title": "Systemd",
+  "description": "Direct questions/support to https://github.com/mmgoodnow/cross-seed/issues/159",
+  "source": "@site/docs/tutorial-basics/Systemd.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Systemd",
+  "permalink": "/docs/tutorial-basics/Systemd",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/Systemd.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Injection",
+    "permalink": "/docs/tutorial-basics/Injection"
+  },
+  "next": {
+    "title": "Unraid",
+    "permalink": "/docs/tutorial-basics/Unraid"
+  }
+}

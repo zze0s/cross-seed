@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/API",
+  "id": "tutorial-basics/API",
+  "title": "`cross-seed` API",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/API.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/API",
+  "permalink": "/docs/tutorial-basics/API",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/API.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/tutorial-basics/markdown-features"
+  },
+  "next": {
+    "title": "Configuration file",
+    "permalink": "/docs/tutorial-basics/Configuration file"
+  }
+}

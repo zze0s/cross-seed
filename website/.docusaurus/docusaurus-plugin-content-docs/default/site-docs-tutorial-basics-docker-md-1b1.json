@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/Docker",
+  "id": "tutorial-basics/Docker",
+  "title": "Docker",
+  "description": "cross-seed is a pretty standard Node command-line app, so it's pretty",
+  "source": "@site/docs/tutorial-basics/Docker.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Docker",
+  "permalink": "/docs/tutorial-basics/Docker",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/Docker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Daemon Mode",
+    "permalink": "/docs/tutorial-basics/Daemon Mode"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/tutorial-basics/FAQ"
+  }
+}

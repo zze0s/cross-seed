@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/Injection",
+  "id": "tutorial-basics/Injection",
+  "title": "Injection",
+  "description": "If you use rTorrent or qBittorrent, cross-seed can inject the torrents it finds directly into",
+  "source": "@site/docs/tutorial-basics/Injection.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Injection",
+  "permalink": "/docs/tutorial-basics/Injection",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/Injection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/docs/tutorial-basics/Home"
+  },
+  "next": {
+    "title": "Systemd",
+    "permalink": "/docs/tutorial-basics/Systemd"
+  }
+}

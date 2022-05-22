@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/Daemon Mode",
+  "id": "tutorial-basics/Daemon Mode",
+  "title": "Daemon Mode",
+  "description": "cross-seed has a beta feature called daemon mode. I recommend using [[Docker]].",
+  "source": "@site/docs/tutorial-basics/Daemon Mode.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Daemon Mode",
+  "permalink": "/docs/tutorial-basics/Daemon Mode",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/Daemon Mode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration file",
+    "permalink": "/docs/tutorial-basics/Configuration file"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/tutorial-basics/Docker"
+  }
+}

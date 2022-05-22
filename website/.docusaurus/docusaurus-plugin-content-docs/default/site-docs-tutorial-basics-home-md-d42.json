@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/Home",
+  "id": "tutorial-basics/Home",
+  "title": "Home",
+  "description": "Welcome to the cross-seed wiki!",
+  "source": "@site/docs/tutorial-basics/Home.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Home",
+  "permalink": "/docs/tutorial-basics/Home",
+  "draft": false,
+  "editUrl": "https://github.com/mmgoodnow/cross-seed/website/docs/docs/tutorial-basics/Home.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/docs/tutorial-basics/FAQ"
+  },
+  "next": {
+    "title": "Injection",
+    "permalink": "/docs/tutorial-basics/Injection"
+  }
+}
